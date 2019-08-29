@@ -9,3 +9,5 @@ docker-compose up
 - http://localhost:8080/api/values
 - http://localhost:8080/i/values
 - http://localhost:9090/validator
+
+- http://localhost:9090/scan
