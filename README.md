@@ -11,3 +11,4 @@ docker-compose up
 - http://localhost:9090/validator
 
 - http://localhost:9090/scan
+- http://localhost:9090/verify
